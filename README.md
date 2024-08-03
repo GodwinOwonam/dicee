@@ -1,6 +1,6 @@
 # dicee_flutter
 
-A new Flutter project.
+Based on Angela Yu's Udemy course Flutter 'dicee_flutter' app.
 
 ## Getting Started
 
